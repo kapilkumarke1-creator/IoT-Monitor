@@ -1,0 +1,29 @@
+[
+  {
+    "$type": "Sensor",
+    "BatteryLevel": 85,
+    "Type": "Sensor",
+    "Id": "D1",
+    "Name": "Living Room",
+    "IpAddress": "192.168.1.50",
+    "Status": 0
+  },
+  {
+    "$type": "Sensor",
+    "BatteryLevel": 100,
+    "Type": "Sensor",
+    "Id": "1",
+    "Name": "Sense",
+    "IpAddress": "111.111.111",
+    "Status": 2
+  },
+  {
+    "$type": "Gateway",
+    "ConnectedDevicesCount": 2,
+    "Type": "Gateway",
+    "Id": "2",
+    "Name": "Gate",
+    "IpAddress": "222.222.222",
+    "Status": 1
+  }
+]

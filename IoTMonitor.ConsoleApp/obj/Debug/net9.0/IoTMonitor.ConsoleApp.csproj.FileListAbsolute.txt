@@ -1,0 +1,28 @@
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.exe
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.deps.json
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.runtimeconfig.json
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.dll
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.pdb
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.AssemblyInfoInputs.cache
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.AssemblyInfo.cs
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.dll
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\refint\IoTMonitor.ConsoleApp.dll
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.pdb
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.genruntimeconfig.cache
+D:\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\ref\IoTMonitor.ConsoleApp.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.exe
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.deps.json
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.runtimeconfig.json
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\bin\Debug\net9.0\IoTMonitor.ConsoleApp.pdb
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.AssemblyInfoInputs.cache
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.AssemblyInfo.cs
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\refint\IoTMonitor.ConsoleApp.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.pdb
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\IoTMonitor.ConsoleApp.genruntimeconfig.cache
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.ConsoleApp\obj\Debug\net9.0\ref\IoTMonitor.ConsoleApp.dll

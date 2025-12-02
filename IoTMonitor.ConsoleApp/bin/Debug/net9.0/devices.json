@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "Sensor",
+    "BatteryLevel": 1,
+    "Type": "Sensor",
+    "Id": "1",
+    "Name": "a",
+    "IpAddress": "11",
+    "Status": 1
+  },
+  {
+    "$type": "Gateway",
+    "ConnectedDevicesCount": 2,
+    "Type": "Gateway",
+    "Id": "2",
+    "Name": "2",
+    "IpAddress": "22",
+    "Status": 0
+  },
+  {
+    "$type": "Sensor",
+    "BatteryLevel": 10,
+    "Type": "Sensor",
+    "Id": "001",
+    "Name": "sensor1",
+    "IpAddress": "1.1",
+    "Status": 0
+  },
+  {
+    "$type": "Gateway",
+    "ConnectedDevicesCount": 3,
+    "Type": "Gateway",
+    "Id": "002",
+    "Name": "gateway1",
+    "IpAddress": "1.2",
+    "Status": 0
+  }
+]
