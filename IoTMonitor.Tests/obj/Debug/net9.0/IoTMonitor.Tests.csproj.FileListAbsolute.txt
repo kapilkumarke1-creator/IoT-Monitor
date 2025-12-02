@@ -1,0 +1,210 @@
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_IoTMonitor.Tests
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_IoTMonitor.Tests
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\testhost.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.deps.json
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.runtimeconfig.json
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.exe
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\testhost.exe
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.deps.json
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.runtimeconfig.json
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.pdb
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.abstractions.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.assert.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.core.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.pdb
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.csproj.AssemblyReference.cache
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.AssemblyInfoInputs.cache
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.AssemblyInfo.cs
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.csproj.CoreCompileInputs.cache
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonit.D343292D.Up2Date
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\refint\IoTMonitor.Tests.dll
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.pdb
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.genruntimeconfig.cache
+D:\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\ref\IoTMonitor.Tests.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_IoTMonitor.Tests
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_IoTMonitor.Tests
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\testhost.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.deps.json
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.runtimeconfig.json
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.exe
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\testhost.exe
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.deps.json
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.runtimeconfig.json
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.Tests.pdb
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.abstractions.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.assert.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.core.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\bin\Debug\net9.0\IoTMonitor.ConsoleApp.pdb
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.csproj.AssemblyReference.cache
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.AssemblyInfoInputs.cache
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.AssemblyInfo.cs
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.csproj.CoreCompileInputs.cache
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonit.D343292D.Up2Date
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\refint\IoTMonitor.Tests.dll
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.pdb
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\IoTMonitor.Tests.genruntimeconfig.cache
+D:\Fwd Pj 822 kapil\IoT Device Monitor\IoTMonitor.Tests\obj\Debug\net9.0\ref\IoTMonitor.Tests.dll
